@@ -4,12 +4,6 @@
 
 ---
 
-<!-- PROFILE GIF OR BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/qC0RZ9Q.gif" alt="coding" width="400"/>
-</p>
-
----
 
 ## 🧭 About Me
 
