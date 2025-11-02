@@ -32,9 +32,6 @@
 ### ⚙️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
