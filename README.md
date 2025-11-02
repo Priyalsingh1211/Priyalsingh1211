@@ -32,7 +32,7 @@
 ### ⚙️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge"/>
 </p>
@@ -63,6 +63,17 @@
 **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
 
 ---
+
+## 🏅 GitHub Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark — for merged pull requests">
+  
+</p>
+
+> 🦈 **Pull Shark Badge:** Awarded for opening pull requests that have been merged.  
+> These badges are earned automatically by your GitHub activity!
+
 
 ## 📊 GitHub Analytics
 
