@@ -32,6 +32,9 @@
 ### ⚙️ Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
@@ -65,9 +68,7 @@
 
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark — for merged pull requests">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw — for first PR within 24 hours of repo creation">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO — merged a PR without code review">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck — got a starred repo">
+  
 </p>
 
 > 🦈 **Pull Shark Badge:** Awarded for opening pull requests that have been merged.  
