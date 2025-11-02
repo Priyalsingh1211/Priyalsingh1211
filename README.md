@@ -64,6 +64,19 @@
 
 ---
 
+## 🏅 GitHub Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark — for merged pull requests">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw — for first PR within 24 hours of repo creation">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO — merged a PR without code review">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck — got a starred repo">
+</p>
+
+> 🦈 **Pull Shark Badge:** Awarded for opening pull requests that have been merged.  
+> These badges are earned automatically by your GitHub activity!
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
